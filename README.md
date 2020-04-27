@@ -1,2 +1,10 @@
-# Tanasuk-Estimation-Tool
-A toolkit to automate the estimation process and efforts allocation
+## Tanasuk-Estimation-Tool
+Web app url : https://omarsayyed85.github.io/Tanasuk-Estimation-Tool
+
+This project was created by CrossUI No-Code App Builder: https://crossui.com/RADGithub
+
+Based on template: https://linb.github.io/CrossUI_Assets/assets/projects/Simple/xui_project_tpl_ActionsDemo
+
+Click [here](https://crossui.com/RADGithub/#!from=github&owner=omarsayyed85&repo=Tanasuk-Estimation-Tool) to edit this web app in CrossUI No-Code App Builder
+
+<i>Powered by [CrossUI](https://crossui.com)</i>
